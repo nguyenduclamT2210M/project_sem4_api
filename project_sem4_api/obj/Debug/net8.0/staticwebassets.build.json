@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "oPSIMxG1FCldXv35xdG++AD3cGtLoccX17rOONMHNfw=",
+  "Source": "project_sem4_api",
+  "BasePath": "_content/project_sem4_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "project_sem4_api\\wwwroot",
+      "Source": "project_sem4_api",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\project_sem4_api\\project_sem4_api\\wwwroot\\",
+      "BasePath": "_content/project_sem4_api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\project_sem4_api\\project_sem4_api\\wwwroot\\images\\07a035d2-2ac0-44e0-938f-727a0ca766a6.jpg",
+      "SourceId": "project_sem4_api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\project_sem4_api\\project_sem4_api\\wwwroot\\",
+      "BasePath": "_content/project_sem4_api",
+      "RelativePath": "images/07a035d2-2ac0-44e0-938f-727a0ca766a6.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\07a035d2-2ac0-44e0-938f-727a0ca766a6.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\project_sem4_api\\project_sem4_api\\wwwroot\\images\\8bd9e264-795e-42ae-aead-c88bfc1e40d6.jpg",
+      "SourceId": "project_sem4_api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\source\\repos\\project_sem4_api\\project_sem4_api\\wwwroot\\",
+      "BasePath": "_content/project_sem4_api",
+      "RelativePath": "images/8bd9e264-795e-42ae-aead-c88bfc1e40d6.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\8bd9e264-795e-42ae-aead-c88bfc1e40d6.jpg"
+    }
+  ]
+}

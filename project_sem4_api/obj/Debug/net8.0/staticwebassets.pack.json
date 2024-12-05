@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\project_sem4_api\\project_sem4_api\\wwwroot\\images\\07a035d2-2ac0-44e0-938f-727a0ca766a6.jpg",
+      "PackagePath": "staticwebassets\\images\\07a035d2-2ac0-44e0-938f-727a0ca766a6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\project_sem4_api\\project_sem4_api\\wwwroot\\images\\8bd9e264-795e-42ae-aead-c88bfc1e40d6.jpg",
+      "PackagePath": "staticwebassets\\images\\8bd9e264-795e-42ae-aead-c88bfc1e40d6.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.project_sem4_api.props",
+      "PackagePath": "build\\project_sem4_api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.project_sem4_api.props",
+      "PackagePath": "buildMultiTargeting\\project_sem4_api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.project_sem4_api.props",
+      "PackagePath": "buildTransitive\\project_sem4_api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.project_sem4_api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
